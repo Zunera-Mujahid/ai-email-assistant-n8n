@@ -7,6 +7,8 @@ An automated email assistant built with n8n that reads incoming Gmail messages, 
 This workflow demonstrates a practical, no-code AI automation pipeline: connecting Gmail, an LLM classification step, and generative reply logic into a single automated system.
 
 ## How It Works
+<img width="923" height="322" alt="image" src="https://github.com/user-attachments/assets/607654dc-9b2f-4b5e-bdcf-8a1e4297de11" />
+
 
 1. **Gmail Trigger** — listens for new incoming emails
 2. **AI Text Classifier** — categorizes each email into one of four intent categories using an LLM classification node
