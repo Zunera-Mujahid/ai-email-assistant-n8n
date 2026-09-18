@@ -26,7 +26,7 @@ This workflow demonstrates a practical, no-code AI automation pipeline: connecti
 ## Tech Stack
 
 - **n8n** — workflow automation and orchestration
-- **Google Gemini API** (`gemini-3.6-flash-lite`) — email classification and reply generation
+- **Google Gemini API** (`gemini-3.5-flash-lite`) — email classification and reply generation
 - **Gmail API** — trigger and draft creation
 
 ## Setup
