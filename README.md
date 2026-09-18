@@ -45,7 +45,11 @@ No credentials or API keys are included in this repository — all connections m
 ## Notes
 
 - This is a portfolio/demo project. The workflow is kept **inactive** in n8n and was only run manually for testing — it is not connected live to a personal inbox.
-  
+
+## Output
+
+<img width="990" height="366" alt="output" src="https://github.com/user-attachments/assets/61c7fbd1-7edf-4d52-bde6-eb44ac1c0394" />
+
 ## Demo
 
 [Watch the demo video](https://youtu.be/0a0Z5_Z4FCk?si=6cQ8wCtZ2xfQRRrH)
